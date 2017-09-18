@@ -1,0 +1,28 @@
+hive> SELECT * FROM airtraffic SORT BY passengercnt DESC LIMIT 10;
+Query ID = ubuntu_20170918203106_8f3ce468-d363-4b8a-9b9a-9cfedfac18c6
+Total jobs = 1
+Launching Job 1 out of 1
+Status: Running (Executing on YARN cluster with App id application_1505763423743_0008)
+
+--------------------------------------------------------------------------------
+        VERTICES      STATUS  TOTAL  COMPLETED  RUNNING  PENDING  FAILED  KILLED
+--------------------------------------------------------------------------------
+Map 1 ..........   SUCCEEDED      1          1        0        0       0       0
+Reducer 2 ......   SUCCEEDED      1          1        0        0       0       0
+Reducer 3 ......   SUCCEEDED      1          1        0        0       0       0
+--------------------------------------------------------------------------------
+VERTICES: 03/03  [==========================>>] 100%  ELAPSED TIME: 4.45 s
+--------------------------------------------------------------------------------
+OK
+201308  United Airlines UA      United Airlines UA      Domestic        US      Deplaned        Other   Terminal 3      F       659837
+201308  United Airlines UA      United Airlines UA      Domestic        US      Enplaned        Other   Terminal 3      F       629003
+201307  United Airlines UA      United Airlines UA      Domestic        US      Deplaned        Other   Terminal 3      F       625885
+201307  United Airlines UA      United Airlines UA      Domestic        US      Enplaned        Other   Terminal 3      F       622871
+201310  United Airlines UA      United Airlines UA      Domestic        US      Deplaned        Other   Terminal 3      F       573619
+201310  United Airlines UA      United Airlines UA      Domestic        US      Enplaned        Other   Terminal 3      F       558030
+201312  United Airlines UA      United Airlines UA      Domestic        US      Enplaned        Other   Terminal 3      F       556208
+201312  United Airlines UA      United Airlines UA      Domestic        US      Deplaned        Other   Terminal 3      F       553433
+201309  United Airlines UA      United Airlines UA      Domestic        US      Deplaned        Other   Terminal 3      F       548374
+201309  United Airlines UA      United Airlines UA      Domestic        US      Enplaned        Other   Terminal 3      F       544302
+Time taken: 5.261 seconds, Fetched: 10 row(s)
+hive>
