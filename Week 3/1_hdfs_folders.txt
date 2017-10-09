@@ -1,0 +1,7 @@
+hdfs@edgenode:/home/ubuntu/hive_class$ hdfs dfs -ls -R /data
+drwxrwxr-x   - admin admin          0 2017-10-08 02:42 /data/pub
+drwxrwxr-x   - admin admin          0 2017-10-08 02:42 /data/pub/consumer_data_pub
+drwxrwxr-x   - admin admin          0 2017-10-08 02:40 /data/raw
+drwxrwxr-x   - admin admin          0 2017-10-08 02:40 /data/raw/consumer_data_raw
+drwxrwxr-x   - admin admin          0 2017-10-08 02:41 /data/stage
+drwxrwxr-x   - admin admin          0 2017-10-08 02:41 /data/stage/consumer_data_stage
