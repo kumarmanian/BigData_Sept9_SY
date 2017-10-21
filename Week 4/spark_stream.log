@@ -1,0 +1,69 @@
+-------------------------------------------
+Batch: 0
+-------------------------------------------
++-----+---+--------------------+----+--------------+----+---------------+----+---------------+----+--------------------+----+--------------------+-----+----+----+--------------------+------+----+----+---------+---------+
+|  _c0|_c1|                 _c2| _c3|           _c4| _c5|            _c6| _c7|            _c8| _c9|                _c10|_c11|                _c12| _c13|_c14|_c15|                _c16|  _c17|_c18|_c19|     _c20|     _c21|
++-----+---+--------------------+----+--------------+----+---------------+----+---------------+----+--------------------+----+--------------------+-----+----+----+--------------------+------+----+----+---------+---------+
+|Local| 33|DEPARTMENT OF HUM...|0100|CORPORATE FUND|1005|HUMAN RESOURCES|2005|HUMAN RESOURCES|3005|      Administration|4005|Commissioner's Of...| 1 00|   9|9933|Commissioner of H...|Annual|   1|   1|151572.00|151572.00|
+|Local| 33|DEPARTMENT OF HUM...|0100|CORPORATE FUND|1005|HUMAN RESOURCES|2005|HUMAN RESOURCES|3005|      Administration|4005|Commissioner's Of...| 1 00|   9|9813|Managing Deputy C...|Annual|   1|   1|130380.00|130380.00|
+|Local| 33|DEPARTMENT OF HUM...|0100|CORPORATE FUND|1005|HUMAN RESOURCES|2005|HUMAN RESOURCES|3005|      Administration|4005|Commissioner's Of...| 1 00|   9|9660|First Deputy Comm...|Annual|   1|   1|137568.00|137568.00|
+|Local| 33|DEPARTMENT OF HUM...|0100|CORPORATE FUND|1005|HUMAN RESOURCES|2005|HUMAN RESOURCES|3005|      Administration|4005|Commissioner's Of...| 3 00|   0|1430|      Policy Analyst|Annual|   1|   1| 66732.00| 66732.00|
+|Local| 33|DEPARTMENT OF HUM...|0100|CORPORATE FUND|1005|HUMAN RESOURCES|2005|HUMAN RESOURCES|3005|      Administration|4005|Commissioner's Of...|BX 15|  10|0802|Executive Adminis...|Annual|   1|   1| 70620.00| 70620.00|
+|Local| 33|DEPARTMENT OF HUM...|0100|CORPORATE FUND|1005|HUMAN RESOURCES|2005|HUMAN RESOURCES|3005|      Administration|4005|Commissioner's Of...|BX 15|  10|0802|Executive Adminis...|Annual|   1|   1| 59976.00| 59976.00|
+|Local| 33|DEPARTMENT OF HUM...|0100|CORPORATE FUND|1005|HUMAN RESOURCES|2005|HUMAN RESOURCES|3005|      Administration|4005|Commissioner's Of...| 1 00|   0|0015|Schedule Salary A...|Annual|   0|   0|  1392.00|  1392.00|
+|Local| 33|DEPARTMENT OF HUM...|0100|CORPORATE FUND|1005|HUMAN RESOURCES|2005|HUMAN RESOURCES|3005|      Administration|4010|Finance and Admin...|BX 12|  20|1342|Senior Personnel ...|Annual|   1|   1| 43308.00| 43308.00|
+|Local| 33|DEPARTMENT OF HUM...|0100|CORPORATE FUND|1005|HUMAN RESOURCES|2005|HUMAN RESOURCES|3005|      Administration|4010|Finance and Admin...| B 15|   1|1302|Administrative Se...|Annual|   1|   1| 84420.00| 84420.00|
+|Local| 33|DEPARTMENT OF HUM...|0100|CORPORATE FUND|1005|HUMAN RESOURCES|2005|HUMAN RESOURCES|3005|      Administration|4010|Finance and Admin...|BX 09|  20|0415|    Inquiry Aide III|Annual|   1|   1| 43740.00| 43740.00|
+|Local| 33|DEPARTMENT OF HUM...|0100|CORPORATE FUND|1005|HUMAN RESOURCES|2005|HUMAN RESOURCES|3005|      Administration|4010|Finance and Admin...|BX 17|  20|0394|Administrative Ma...|Annual|   1|   1| 68220.00| 68220.00|
+|Local| 33|DEPARTMENT OF HUM...|0100|CORPORATE FUND|1005|HUMAN RESOURCES|2005|HUMAN RESOURCES|3005|      Administration|4010|Finance and Admin...| 1 00|   0|0015|Schedule Salary A...|Annual|   0|   0|   834.00|   834.00|
+|Local| 33|DEPARTMENT OF HUM...|0100|CORPORATE FUND|1005|HUMAN RESOURCES|2005|HUMAN RESOURCES|3005|      Administration|4011|Human Resources B...|BX 15|  10|1912| Project Coordinator|Annual|   1|   1| 93300.00| 93300.00|
+|Local| 33|DEPARTMENT OF HUM...|0100|CORPORATE FUND|1005|HUMAN RESOURCES|2005|HUMAN RESOURCES|3015|Workforce Compliance|   0|                null| 1 00|   9|9679| Deputy Commissioner|Annual|   1|   1|118932.00|118932.00|
+|Local| 33|DEPARTMENT OF HUM...|0100|CORPORATE FUND|1005|HUMAN RESOURCES|2005|HUMAN RESOURCES|3015|Workforce Compliance|   0|                null|GY 07|  20|3534|Clinical Therapis...|Annual|   1|   1| 68100.00| 68100.00|
+|Local| 33|DEPARTMENT OF HUM...|0100|CORPORATE FUND|1005|HUMAN RESOURCES|2005|HUMAN RESOURCES|3015|Workforce Compliance|   0|                null| 3 00|   0|1385|  Disability Officer|Annual|   1|   1| 94560.00| 94560.00|
+|Local| 33|DEPARTMENT OF HUM...|0100|CORPORATE FUND|1005|HUMAN RESOURCES|2005|HUMAN RESOURCES|3015|Workforce Compliance|   0|                null| 3 00|   0|1384|Equal Employment ...|Annual|   1|   1| 94560.00| 94560.00|
+|Local| 33|DEPARTMENT OF HUM...|0100|CORPORATE FUND|1005|HUMAN RESOURCES|2005|HUMAN RESOURCES|3015|Workforce Compliance|   0|                null|GY 07|  20|1364|Training and Deve...|Annual|   3|   1| 84324.00|252972.00|
+|Local| 33|DEPARTMENT OF HUM...|0100|CORPORATE FUND|1005|HUMAN RESOURCES|2005|HUMAN RESOURCES|3015|Workforce Compliance|   0|                null|GY 07|  20|1364|Training and Deve...|Annual|   1|   1| 62448.00| 62448.00|
+|Local| 33|DEPARTMENT OF HUM...|0100|CORPORATE FUND|1005|HUMAN RESOURCES|2005|HUMAN RESOURCES|3015|Workforce Compliance|   0|                null|GY 08|  10|1354|    EEO Investigator|Annual|   1|   1| 70020.00| 70020.00|
++-----+---+--------------------+----+--------------+----+---------------+----+---------------+----+--------------------+----+--------------------+-----+----+----+--------------------+------+----+----+---------+---------+
+only showing top 20 rows
+
+-------------------------------------------
+Batch: 1
+-------------------------------------------
++-----+---+--------------------+----+--------------+----+--------------------+----+--------------------+----+--------------------+----+--------------------+-----+----+----+--------------------+------+----+----+---------+---------+
+|  _c0|_c1|                 _c2| _c3|           _c4| _c5|                 _c6| _c7|                 _c8| _c9|                _c10|_c11|                _c12| _c13|_c14|_c15|                _c16|  _c17|_c18|_c19|     _c20|     _c21|
++-----+---+--------------------+----+--------------+----+--------------------+----+--------------------+----+--------------------+----+--------------------+-----+----+----+--------------------+------+----+----+---------+---------+
+|Local| 35|PROCUREMENT SERVICES|0100|CORPORATE FUND|1005|PROCUREMENT SERVICES|2005|PROCUREMENT SERVICES|3006|Departmental Admi...|4006|      Administration| 1 00|   9|9935|Chief Procurement...|Annual|   1|   1|167220.00|167220.00|
+|Local| 35|PROCUREMENT SERVICES|0100|CORPORATE FUND|1005|PROCUREMENT SERVICES|2005|PROCUREMENT SERVICES|3006|Departmental Admi...|4006|      Administration| 1 00|   9|9815|Managing Deputy P...|Annual|   1|   1|132984.00|132984.00|
+|Local| 35|PROCUREMENT SERVICES|0100|CORPORATE FUND|1005|PROCUREMENT SERVICES|2005|PROCUREMENT SERVICES|3006|Departmental Admi...|4006|      Administration| 1 00|   0|9726|First Deputy Proc...|Annual|   1|   1|142596.00|142596.00|
+|Local| 35|PROCUREMENT SERVICES|0100|CORPORATE FUND|1005|PROCUREMENT SERVICES|2005|PROCUREMENT SERVICES|3006|Departmental Admi...|4006|      Administration| 3 00|   0|1646|            Attorney|Annual|   1|   1|116844.00|116844.00|
+|Local| 35|PROCUREMENT SERVICES|0100|CORPORATE FUND|1005|PROCUREMENT SERVICES|2005|PROCUREMENT SERVICES|3006|Departmental Admi...|4006|      Administration| 3 00|   9|1554|Assistant Procure...|Annual|   1|   1| 88452.00| 88452.00|
+|Local| 35|PROCUREMENT SERVICES|0100|CORPORATE FUND|1005|PROCUREMENT SERVICES|2005|PROCUREMENT SERVICES|3006|Departmental Admi...|4006|      Administration| 3 00|   9|1554|Assistant Procure...|Annual|   1|   1| 87576.00| 87576.00|
+|Local| 35|PROCUREMENT SERVICES|0100|CORPORATE FUND|1005|PROCUREMENT SERVICES|2005|PROCUREMENT SERVICES|3006|Departmental Admi...|4006|      Administration|BX 16|  20|1304|Supervisor of Per...|Annual|   1|   1| 93300.00| 93300.00|
+|Local| 35|PROCUREMENT SERVICES|0100|CORPORATE FUND|1005|PROCUREMENT SERVICES|2005|PROCUREMENT SERVICES|3006|Departmental Admi...|4006|      Administration|BX 15|  10|0802|Executive Adminis...|Annual|   1|   1| 70620.00| 70620.00|
+|Local| 35|PROCUREMENT SERVICES|0100|CORPORATE FUND|1005|PROCUREMENT SERVICES|2005|PROCUREMENT SERVICES|3006|Departmental Admi...|4006|      Administration|BX 13|  10|0801|Executive Adminis...|Annual|   1|   1| 66480.00| 66480.00|
+|Local| 35|PROCUREMENT SERVICES|0100|CORPORATE FUND|1005|PROCUREMENT SERVICES|2005|PROCUREMENT SERVICES|3006|Departmental Admi...|4006|      Administration| 3 00|   0|0705|Director Public A...|Annual|   1|   1| 85836.00| 85836.00|
+|Local| 35|PROCUREMENT SERVICES|0100|CORPORATE FUND|1005|PROCUREMENT SERVICES|2005|PROCUREMENT SERVICES|3006|Departmental Admi...|4006|      Administration| B 14|   1|0703|Public Relations ...|Annual|   1|   1| 55644.00| 55644.00|
+|Local| 35|PROCUREMENT SERVICES|0100|CORPORATE FUND|1005|PROCUREMENT SERVICES|2005|PROCUREMENT SERVICES|3006|Departmental Admi...|4006|      Administration|BX 13|  20|0366|Staff Assistant -...|Annual|   1|   1| 68556.00| 68556.00|
+|Local| 35|PROCUREMENT SERVICES|0100|CORPORATE FUND|1005|PROCUREMENT SERVICES|2005|PROCUREMENT SERVICES|3006|Departmental Admi...|4006|      Administration| 3 00|   0|0321|Assistant to the ...|Annual|   1|   1| 61992.00| 61992.00|
+|Local| 35|PROCUREMENT SERVICES|0100|CORPORATE FUND|1005|PROCUREMENT SERVICES|2005|PROCUREMENT SERVICES|3006|Departmental Admi...|4010|Finance Operation...|  2 0|  53|9532|      Stores Laborer|Hourly|   1|   1|    40.00| 83616.00|
+|Local| 35|PROCUREMENT SERVICES|0100|CORPORATE FUND|1005|PROCUREMENT SERVICES|2005|PROCUREMENT SERVICES|3006|Departmental Admi...|4010|Finance Operation...|BX 15|  10|1912| Project Coordinator|Annual|   1|   1| 62820.00| 62820.00|
+|Local| 35|PROCUREMENT SERVICES|0100|CORPORATE FUND|1005|PROCUREMENT SERVICES|2005|PROCUREMENT SERVICES|3006|Departmental Admi...|4010|Finance Operation...|  2 0|  53|1860|Foreman of Pipe Y...|Hourly|   1|   1|    41.00| 85904.00|
+|Local| 35|PROCUREMENT SERVICES|0100|CORPORATE FUND|1005|PROCUREMENT SERVICES|2005|PROCUREMENT SERVICES|3006|Departmental Admi...|4010|Finance Operation...| 3 00|   9|1556|Deputy Procuremen...|Annual|   1|   1|122784.00|122784.00|
+|Local| 35|PROCUREMENT SERVICES|0100|CORPORATE FUND|1005|PROCUREMENT SERVICES|2005|PROCUREMENT SERVICES|3006|Departmental Admi...|4010|Finance Operation...| 3 00|   9|1556|Deputy Procuremen...|Annual|   1|   1|119196.00|119196.00|
+|Local| 35|PROCUREMENT SERVICES|0100|CORPORATE FUND|1005|PROCUREMENT SERVICES|2005|PROCUREMENT SERVICES|3006|Departmental Admi...|4010|Finance Operation...| 3 00|   9|1554|Assistant Procure...|Annual|   1|   1|110076.00|110076.00|
+|Local| 35|PROCUREMENT SERVICES|0100|CORPORATE FUND|1005|PROCUREMENT SERVICES|2005|PROCUREMENT SERVICES|3006|Departmental Admi...|4010|Finance Operation...|BX 13|  10|0801|Executive Adminis...|Annual|   1|   1| 60564.00| 60564.00|
++-----+---+--------------------+----+--------------+----+--------------------+----+--------------------+----+--------------------+----+--------------------+-----+----+----+--------------------+------+----+----+---------+---------+
+only showing top 20 rows
+
+Traceback (most recent call last):
+  File "/home/ubuntu/practice/spark_stream_2.py", line 48, in <module>
+    ssc.awaitTermination()
+  File "/usr/hdp/current/spark2-client/python/lib/pyspark.zip/pyspark/streaming/context.py", line 206, in awaitTermination
+  File "/usr/hdp/current/spark2-client/python/lib/py4j-0.10.4-src.zip/py4j/java_gateway.py", line 1131, in __call__
+  File "/usr/hdp/current/spark2-client/python/lib/py4j-0.10.4-src.zip/py4j/java_gateway.py", line 883, in send_command
+  File "/usr/hdp/current/spark2-client/python/lib/py4j-0.10.4-src.zip/py4j/java_gateway.py", line 1028, in send_command
+  File "/usr/lib/python2.7/socket.py", line 451, in readline
+    data = self._sock.recv(self._rbufsize)
+  File "/usr/hdp/current/spark2-client/python/lib/pyspark.zip/pyspark/context.py", line 249, in signal_handler
+KeyboardInterrupt
